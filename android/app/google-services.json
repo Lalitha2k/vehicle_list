@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832569106892",
+    "project_id": "vehical-pollution-list",
+    "storage_bucket": "vehical-pollution-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832569106892:android:c01a2242e92f087addbd69",
+        "android_client_info": {
+          "package_name": "com.example.vehical_pollution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHnh837WfXfrlrSBLGpK0HCIe_M1vbBCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
